@@ -61,7 +61,6 @@
 
 <h3 align="left">Framework</h3>
 <div>
-  <p>
     <a align="left" style="margin-left: 10px;">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"
@@ -90,5 +89,18 @@
         height="40"
       />
     </a>
-  </p>
+    <a align="left" style="margin-left: 10px;">
+      <img
+        src="https://npgblog.dev/static/68a558fc108a442108d49528b81d68ee/e17e5/nuxt-logo.png"
+        width="40"
+        height="40"
+      />
+    </a>
+   <a align="left" style="margin-left: 10px;">
+      <img
+        src="https://pronto-core-cdn.prontomarketing.com/2/wp-content/uploads/sites/2826/2018/12/1_6kK9j74vyOmXYm1gN6ARhQ.png"
+        width="40"
+        height="40"
+      />
+    </a>
 </div>
