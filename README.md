@@ -51,27 +51,6 @@
     </a>
     <a align="left" style="margin-left: 10px;">
       <img
-        src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/050/thumb/androidlogo.png"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a align="left" style="margin-left: 10px;">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a align="left" style="margin-left: 10px;">
-      <img
-        src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a align="left" style="margin-left: 10px;">
-      <img
         src="http://pngimg.com/uploads/php/php_PNG43.png"
         width="40"
         height="40"
