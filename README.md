@@ -37,13 +37,6 @@
     </a>
     <a align="left" style="margin-left: 10px;">
       <img
-        src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a align="left" style="margin-left: 10px;">
-      <img
         src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"
         width="40"
         height="40"
