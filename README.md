@@ -3,17 +3,10 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=karin22&label=Profile%20views&color=brightgreen&style=flat"
+    src="https://github-profile-trophy.vercel.app/?username=karin22&theme=flat"
     alt="karin22"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=karin22&theme=onedark"
-      alt="karin22"
-  /></a>
+  
 </p>
 
 <div>
