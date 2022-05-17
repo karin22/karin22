@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=karin22&theme=flat&&rank=-C,-B&&row=2&&column=3"
+      src="https://github-profile-trophy.vercel.app/?username=karin22&theme=flat&&row=2&&column=3"
       alt="totaeza31"
   /></a>
 </p>
