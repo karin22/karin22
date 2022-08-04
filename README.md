@@ -11,7 +11,7 @@
 
 <div>
   <br />
-  - 🔭 I’m currently working on Web developer at Radius Company Limited. <br />
+  - 🔭 I’m currently working on Web developer at Radius Company <br />
   <br />
   - 🌱 I’m currently learning ** VueJs **.<br />
   <br />
